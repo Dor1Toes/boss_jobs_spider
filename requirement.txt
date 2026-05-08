@@ -1,0 +1,6 @@
+DrissionPage==4.1.1.2
+requests==2.27.1
+pandas==1.4.2
+jieba==0.42.1
+wordcloud==1.9.6
+matplotlib==3.7.2
